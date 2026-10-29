@@ -50,7 +50,7 @@
   "dependencies": {
     "@readme/data-urls": "^3.0.0",
     "oas": "file:../oas",
-    "qs": "^6.12.0",
+    "qs": "^6.17.1",
     "remove-undefined-objects": "^7.0.0"
   },
   "devDependencies": {
@@ -60,7 +60,7 @@
     "jest-expect-har": "^10.0.0",
     "tsup": "^8.5.0",
     "typescript": "^5.2.2",
-    "vitest": "^4.0.8"
+    "vitest": "^5.0.5"
   },
   "prettier": "@readme/standards/prettier"
 }

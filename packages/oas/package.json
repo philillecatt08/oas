@@ -91,7 +91,7 @@
     "jsonpointer": "^5.0.0",
     "memoizee": "^0.4.16",
     "openapi-types": "^12.1.1",
-    "path-to-regexp": "^8.1.0",
+    "path-to-regexp": "^9.0.0",
     "remove-undefined-objects": "^7.0.0"
   },
   "devDependencies": {
@@ -103,7 +103,7 @@
     "jest-expect-openapi": "file:../jest-expect-openapi",
     "tsup": "^8.5.0",
     "typescript": "^5.4.4",
-    "vitest": "^4.0.8"
+    "vitest": "^5.0.5"
   },
   "prettier": "@readme/standards/prettier"
 }
